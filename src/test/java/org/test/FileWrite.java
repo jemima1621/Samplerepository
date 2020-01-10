@@ -22,6 +22,10 @@ public class FileWrite {
 		FileOutputStream out=new FileOutputStream(loc);
 		w.write(out);
 		System.out.println("Sucess");
+		System.out.println("Sucess");
+		System.out.println("Sucess");
+		System.out.println("Sucess");
+		System.out.println("Sucess");
 		
 	
 	}
